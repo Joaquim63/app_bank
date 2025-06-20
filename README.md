@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app_bank2
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# app_bank
+>>>>>>> 9dea40c6ca9f9cab92191798da26e081ebfd75a7
