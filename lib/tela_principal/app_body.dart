@@ -66,10 +66,10 @@ class AppBody extends StatelessWidget {
                   backgroundImage: AssetImage('caminho/para/sua/imagem3.png'),
                 ),
                 onPressed: () {
-                  // Navegue para a nova tela aqui
+                  // Tela futura, para o avatar
                 },
               ),
-              // Adicione mais IconButton aqui
+              // Mais IconButton aq 
             ],
           ),
 
